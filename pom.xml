@@ -18,17 +18,17 @@
   <modules />
 
   <scm>
-    <connection>scm:git:git@github.com:ham1/frameworkium-lite</connection>
-    <url>scm:git:git@github.com:ham1/frameworkium-lite</url>
-    <developerConnection>scm:git:git@github.com:ham1/frameworkium-lite</developerConnection>
+    <connection>scm:git:git@github.com:janzawduco/frameworkium-lite</connection>
+    <url>scm:git:git@github.com:janzawduco/frameworkium-lite</url>
+    <developerConnection>scm:git:git@github.com:janzawduco/frameworkium-lite</developerConnection>
     <tag>HEAD</tag>
   </scm>
   <issueManagement>
     <system>github issues</system>
-    <url>https://github.com/ham1/frameworkium-lite/issues</url>
+    <url>https://github.com/janzawduco/frameworkium-lite/issues</url>
   </issueManagement>
   <ciManagement>
-    <url>https://github.com/ham1/frameworkium-lite/actions</url>
+    <url>https://github.com/janzawduco/frameworkium-lite/actions</url>
   </ciManagement>
 
   <distributionManagement />
